@@ -26,6 +26,8 @@
 - 🌱 Focused on developing **AI-driven solutions** to enhance decision-making in **Finance, Accounting, and Business Management**  
 - ⚡ Specialized in **Information Technologies, Web Development, and Enterprise Application Design**  
 - 🎯 Aiming to turn **technological innovation into accessible, practical, and results-oriented tools**
+- 💼 Developing end-to-end **business solutions** by leveraging Microsoft Power Platform (Power Automate, Apps, BI) to streamline operations and enhance **process efficiency**.
+- 📊 Managing and analyzing **large-scale datasets** to extract actionable metrics and KPIs that drive data-informed strategic decisions.
 
 ---
 
