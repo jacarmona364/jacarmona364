@@ -107,6 +107,18 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+### ⚡ Microsoft Power Platform & Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
+![Power Pages](https://img.shields.io/badge/Power_Pages-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
 ## 📊 Profile Statistics
 
  <div align=center>
